@@ -1,7 +1,7 @@
 # TODOs - Conda
 
 - [x] `conference_details`: fill up isbn
-- [ ] dieuwke's bio
+- [x] dieuwke's bio
 
 # How to generate proceedings for \*CL Conferences and Workshops in aclpub2 format
 
