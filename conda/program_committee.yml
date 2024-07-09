@@ -1,0 +1,268 @@
+- entries:
+  - dblp_id: https://dblp.org/pid/a/EnekoAgirre
+    emails: e.agirre@ehu.eus
+    first_name: Eneko
+    google_scholar_id: https://scholar.google.es/citations?user=kSuqts0AAAAJ&hl=en
+    homepage: http://ixa.si.ehu.eus/eneko
+    institution: University of the Basque Country (UPV/EHU)
+    last_name: Agirre
+    name: Eneko Agirre
+    username: ~Eneko_Agirre1
+  - dblp_id: https://dblp.org/pid/262/3907.html
+    emails: jonander.campos@ehu.eus
+    first_name: Jon Ander
+    google_scholar_id: https://scholar.google.com/citations?user=wlcPPygAAAAJ&hl
+    institution: Cohere
+    last_name: Campos
+    name: Jon Ander Campos
+    username: ~Jon_Ander_Campos1
+  - dblp_id: https://dblp.org/pid/223/4533
+    emails: yanaiela@gmail.com
+    first_name: Yanai
+    google_scholar_id: https://scholar.google.co.il/citations?user=7p_Ce8kAAAAJ
+    homepage: https://yanaiela.github.io
+    institution: Allen Institute for Artificial Intelligence and University of Washington
+    last_name: Elazar
+    name: Yanai Elazar
+    semantic_scholar_id: https://www.semanticscholar.org/author/Yanai-Elazar/51131518
+    username: ~Yanai_Elazar1
+  - dblp_id: https://dblp.org/pid/305/9880
+    emails: igarciaf896@gmail.com
+    first_name: Iker
+    google_scholar_id: https://scholar.google.es/citations?user=yoOzj1MAAAAJ&hl
+    homepage: https://ikergarcia1996.github.io/Iker-Garcia-Ferrero/
+    institution: University of the Basque Country (UPV/EHU)
+    last_name: García-Ferrero
+    name: Iker García-Ferrero
+    orcid: https://orcid.org/0000-0001-9612-7134
+    semantic_scholar_id: https://www.semanticscholar.org/author/Iker-Garc%C3%ADa-Ferrero/1453724884
+    username: ~Iker_García-Ferrero1
+  - dblp_id: https://dblp.org/pid/68/5296
+    emails: yoav.goldberg@gmail.com
+    first_name: Yoav
+    google_scholar_id: https://scholar.google.co.il/citations?user=0rskDKgAAAAJ&hl=en
+    homepage: https://www.cs.biu.ac.il/~yogo
+    institution: Bar-Ilan University, Allen Institute for Artificial Intelligence
+      and Bar Ilan University
+    last_name: Goldberg
+    name: Yoav Goldberg
+    username: ~Yoav_Goldberg1
+  - dblp_id: https://dblp.org/pid/218/5900
+    emails: alonjacovi@google.com
+    first_name: Alon
+    google_scholar_id: https://scholar.google.com/citations?user=cX9TtloAAAAJ&hl=en#
+    homepage: https://alonjacovi.github.io/
+    institution: Google
+    last_name: Jacovi
+    name: Alon Jacovi
+    semantic_scholar_id: https://www.semanticscholar.org/author/Alon-Jacovi/41016275
+    username: ~Alon_Jacovi1
+  - dblp_id: https://dblp.org/pid/266/1113
+    emails: oscar.sainz@ehu.eus
+    first_name: Oscar
+    google_scholar_id: https://scholar.google.es/citations?user=3Z5zok8AAAAJ&hl=es
+    homepage: https://osainz59.github.io/
+    institution: University of the Basque Country (UPV/EHU)
+    last_name: Sainz
+    name: Oscar Sainz
+    orcid: https://orcid.org/0000-0003-0890-7670
+    semantic_scholar_id: https://www.semanticscholar.org/author/Oscar-Sainz/1724648481
+    username: ~Oscar_Sainz1
+  role: Program Chairs
+- entries:
+  - dblp_id: https://dblp.org/pid/57/5047
+    emails: rodrigo.agerri@ehu.eus
+    first_name: Rodrigo
+    google_scholar_id: https://scholar.google.es/citations?user=1SJh0a8AAAAJ&hl=en
+    homepage: https://ragerri.github.io/
+    institution: University of the Basque Country
+    last_name: Agerri
+    name: Rodrigo Agerri
+    orcid: https://orcid.org/0000-0002-7303-7598
+    semantic_scholar_id: https://www.semanticscholar.org/author/Rodrigo-Agerri/3242916
+    username: ~Rodrigo_Agerri1
+  - dblp_id: https://dblp.org/pid/208/4546
+    emails: inigoborja.alonso@ehu.eus
+    first_name: Iñigo
+    google_scholar_id: https://scholar.google.com/citations?user=U0mRobgAAAAJ
+    institution: University of the Basque Country (UPV/EHU)
+    last_name: Alonso
+    name: Iñigo Alonso
+    orcid: https://orcid.org/0000-0001-5891-9165
+    semantic_scholar_id: https://www.semanticscholar.org/author/Iñigo-Alonso/2258193767
+    username: ~Iñigo_Alonso2
+  - dblp_id: https://dblp.org/pid/70/6331
+    emails: jeremy.barnes@ehu.eus
+    first_name: Jeremy
+    google_scholar_id: https://scholar.google.nl/citations?user=OZGuamsAAAAJ&hl=en#
+    homepage: https://jerbarnes.github.io/
+    institution: University of the Basque Country
+    last_name: Barnes
+    name: Jeremy Barnes
+    semantic_scholar_id: https://www.semanticscholar.org/author/Jeremy-Barnes/144435436
+    username: ~Jeremy_Barnes1
+  - dblp_id: https://dblp.org/pid/126/8593.html
+    emails: ander.barrena@ehu.eus
+    first_name: Ander
+    google_scholar_id: https://scholar.google.com/citations?user=ZaZ-W1cAAAAJ&hl=en
+    institution: Universidad del País Vasco
+    last_name: Barrena
+    name: Ander Barrena
+    orcid: https://orcid.org/0000-0003-2024-0362
+    semantic_scholar_id: https://www.semanticscholar.org/author/Ander-Barrena/1760443
+    username: ~Ander_Barrena2
+  - dblp_id: https://dblp.org/pid/305/9880
+    emails: igarciaf896@gmail.com
+    first_name: Iker
+    google_scholar_id: https://scholar.google.es/citations?user=yoOzj1MAAAAJ&hl
+    homepage: https://ikergarcia1996.github.io/Iker-Garcia-Ferrero/
+    institution: University of the Basque Country (UPV/EHU)
+    last_name: García-Ferrero
+    name: Iker García-Ferrero
+    orcid: https://orcid.org/0000-0001-9612-7134
+    semantic_scholar_id: https://www.semanticscholar.org/author/Iker-Garc%C3%ADa-Ferrero/1453724884
+    username: ~Iker_García-Ferrero1
+  - emails: golchin@arizona.edu
+    first_name: Shahriar
+    google_scholar_id: https://scholar.google.com/citations?user=iBl-Yc8AAAAJ&hl=en
+    institution: University of Arizona
+    last_name: Golchin
+    name: Shahriar Golchin
+    semantic_scholar_id: https://www.semanticscholar.org/author/Shahriar-Golchin/65754049
+    username: ~Shahriar_Golchin1
+  - dblp_id: https://dblp.org/pid/127/1203
+    emails: itziar.gonzalezd@ehu.eus
+    first_name: Itziar
+    google_scholar_id: https://scholar.google.com/citations?user=WVHDcW4AAAAJ&hl=es
+    homepage: http://www.ixa.eus/node/66?language=en
+    institution: Universidad del País Vasco
+    last_name: Gonzalez-Dios
+    name: Itziar Gonzalez-Dios
+    orcid: https://orcid.org/0000-0003-1048-5403
+    semantic_scholar_id: https://www.semanticscholar.org/author/Itziar-Gonzalez-Dios/1404791152
+    username: ~Itziar_Gonzalez-Dios1
+  - emails: ejhwang@cs.ubc.ca
+    first_name: EunJeong
+    google_scholar_id: https://scholar.google.com/citations?user=Z0TA4NEAAAAJ
+    homepage: https://eujhwang.github.io/
+    institution: University of British Columbia
+    last_name: Hwang
+    name: EunJeong Hwang
+    username: ~EunJeong_Hwang1
+  - dblp_id: https://dblp.org/pid/218/5900
+    emails: alonjacovi@google.com
+    first_name: Alon
+    google_scholar_id: https://scholar.google.com/citations?user=cX9TtloAAAAJ&hl=en#
+    homepage: https://alonjacovi.github.io/
+    institution: Google
+    last_name: Jacovi
+    name: Alon Jacovi
+    semantic_scholar_id: https://www.semanticscholar.org/author/Alon-Jacovi/41016275
+    username: ~Alon_Jacovi1
+  - dblp_id: https://dblp.org/pid/72/7816-1
+    emails: yucheng.li@surrey.ac.uk
+    first_name: Yucheng
+    last_name: LI
+    name: YUCHENG LI
+    semantic_scholar_id: https://www.semanticscholar.org/author/Yucheng-Li/1527099159
+    username: ~YUCHENG_LI2
+  - dblp_id: https://dblp.org/pid/11/4461
+    emails: oier.lopezdelacalle@gmail.com
+    first_name: Oier
+    google_scholar_id: https://scholar.google.com/citations?user=nieh6tUAAAAJ&hl=en
+    last_name: Lacalle
+    middle_name: Lopez De
+    name: Oier Lopez de Lacalle
+    orcid: https://orcid.org/my-orcid?orcid=0000-0003-4969-2055
+    semantic_scholar_id: https://www.semanticscholar.org/author/1715983
+    username: ~Oier_Lopez_de_Lacalle1
+  - dblp_id: https://dblp.org/pid/301/9923
+    emails: magnusson.i@northeastern.edu
+    first_name: Ian
+    google_scholar_id: https://scholar.google.com/citations?user=YQiIT2YAAAAJ&hl=en&oi=ao
+    homepage: http://ianmagnusson.github.io
+    last_name: Magnusson
+    name: Ian Magnusson
+    semantic_scholar_id: https://www.semanticscholar.org/author/Ian-H.-Magnusson/2124977543
+    username: ~Ian_Magnusson1
+  - dblp_id: https://dblp.org/pid/184/8560
+    emails: naiara.pme@gmail.com
+    first_name: Naiara
+    google_scholar_id: https://scholar.google.com/citations?user=SDYXlywAAAAJ&hl=en
+    institution: University of the Basque Country (UPV/EHU)
+    last_name: Perez
+    name: Naiara Perez
+    orcid: https://orcid.org/0000-0001-8648-0428
+    semantic_scholar_id: https://www.semanticscholar.org/author/143801369
+    username: ~Naiara_Perez1
+  - dblp_id: https://dblp.org/pid/331/5719
+    emails: rassinroyi@gmail.com
+    first_name: Royi
+    google_scholar_id: https://scholar.google.com/citations?user=_6g4hxsAAAAJ&hl=en
+    homepage: https://royi-rassin.netlify.app/
+    institution: Bar-Ilan University
+    last_name: Rassin
+    name: Royi Rassin
+    semantic_scholar_id: https://www.semanticscholar.org/author/Royi-Rassin/2188241744
+    username: ~Royi_Rassin1
+  - dblp_id: https://dblp.org/pid/236/5862
+    emails: sahiravi@cs.ubc.ca
+    first_name: Sahithya
+    google_scholar_id: https://scholar.google.com/citations?user=mlWmdUsAAAAJ&hl=en
+    homepage: https://sahithyaravi.github.io/
+    institution: University of British Columbia
+    last_name: Ravi
+    name: Sahithya Ravi
+    semantic_scholar_id: https://www.semanticscholar.org/author/Sahithya-Ravi/152650432
+    username: ~Sahithya_Ravi1
+  - dblp_id: https://dblp.org/pid/266/1113
+    emails: oscar.sainz@ehu.eus
+    first_name: Oscar
+    google_scholar_id: https://scholar.google.es/citations?user=3Z5zok8AAAAJ&hl=es
+    homepage: https://osainz59.github.io/
+    institution: University of the Basque Country (UPV/EHU)
+    last_name: Sainz
+    name: Oscar Sainz
+    orcid: https://orcid.org/0000-0003-0890-7670
+    semantic_scholar_id: https://www.semanticscholar.org/author/Oscar-Sainz/1724648481
+    username: ~Oscar_Sainz1
+  - emails: hailey@eleuther.ai
+    first_name: Hailey
+    google_scholar_id: https://scholar.google.com/citations?user=XLahYIYAAAAJ&hl=en
+    institution: EleutherAI
+    last_name: Schoelkopf
+    name: Hailey Schoelkopf
+    semantic_scholar_id: https://www.semanticscholar.org/author/Hailey-Schoelkopf/2184031883
+    username: ~Hailey_Schoelkopf1
+  - dblp_id: https://dblp.org/pid/175/6462.html
+    emails: preethis@uci.edu
+    first_name: Preethi
+    homepage: https://preethiseshadri518.github.io/
+    institution: University of California, Irvine
+    last_name: Seshadri
+    name: Preethi Seshadri
+    username: ~Preethi_Seshadri2
+  - dblp_id: https://dblp.org/pid/242/8043
+    emails: tanyichern@gmail.com
+    first_name: Yi Chern
+    google_scholar_id: https://scholar.google.com/citations?user=rKMkKC4AAAAJ&hl=en
+    institution: Cohere
+    last_name: Tan
+    name: Yi Chern Tan
+    username: ~Yi_Chern_Tan1
+  - emails: 1stuserhere@gmail.com
+    first_name: Kunvar
+    homepage: https://kunvarthaman.com
+    institution: BITS Pilani, Birla Institute of Technology and Science
+    last_name: Thaman
+    name: Kunvar Thaman
+    username: ~Kunvar_Thaman1
+  - emails: 1stuserhere@gmail.com
+    first_name: Kunvar
+    homepage: https://kunvarthaman.com
+    institution: BITS Pilani, Birla Institute of Technology and Science
+    last_name: Thaman
+    name: Kunvar Thaman
+    username: ~Kunvar_Thaman1
+  role: Reviewers
+  type: name_block

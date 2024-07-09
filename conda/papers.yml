@@ -1,0 +1,265 @@
+- abstract: Chinese LLMs demonstrate impressive performance on NLP tasks, particularly
+    on discipline knowledge benchmarks, with some results approaching those of GPT-4.
+    Previous research has viewed these advancements as potential outcomes of data
+    contamination or leakage, prompting efforts to create new detection methods and
+    address evaluation issues in LLM benchmarks. However, there has been a lack of
+    comprehensive assessment of the evolution of Chinese LLMs. To address this gap,
+    this paper offers a thorough investigation of Chinese LLMs on discipline knowledge
+    evaluation, delving into the advancements of various LLMs, including a group of
+    related models and others. Specifically, we have conducted six assessments ranging
+    from knowledge memorization to comprehension for robustness, encompassing tasks
+    like predicting incomplete questions and options, identifying behaviors by the
+    contaminational fine-tuning, and answering rephrased questions. Experimental findings
+    indicate a positive correlation between the release time of LLMs and their memorization
+    capabilities, but they struggle with variations in original question-options pairs.
+    Additionally, our findings suggest that question descriptions have a more significant
+    impact on LLMs' performance.
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: ''
+  authors:
+  - emails: liuc\_09@tju.edu.cn
+    first_name: Chuang
+    institution: Tianjin University
+    last_name: Liu
+    name: Chuang Liu
+    semantic_scholar_id: https://www.semanticscholar.org/author/Chuang-Liu/2116348128
+    username: ~Chuang_Liu3
+  - dblp_id: https://dblp.org/pid/329/4176
+    emails: cordercorder@qq.com
+    first_name: Renren
+    google_scholar_id: https://scholar.google.com/citations?user=qW3oQDUAAAAJ&hl=en
+    last_name: Jin
+    name: Renren Jin
+    semantic_scholar_id: https://www.semanticscholar.org/author/Renren-Jin/2184143149
+    username: ~Renren_Jin1
+  - dblp_id: https://dblp.org/pid/s/MarkSteedman
+    emails: steedman@inf.ed.ac.uk
+    first_name: Mark
+    google_scholar_id: https://scholar.google.com/citations?user=ccCd0_YAAAAJ&hl=en&oi=ao
+    homepage: https://homepages.inf.ed.ac.uk/steedman/
+    institution: University of Edinburgh
+    last_name: Steedman
+    name: Mark Steedman
+    semantic_scholar_id: https://www.semanticscholar.org/author/Mark-Steedman/145332819
+    username: ~Mark_Steedman1
+  - dblp_id: https://dblp.org/pid/55/6548
+    emails: dyxiong@tju.edu.cn
+    first_name: Deyi
+    google_scholar_id: https://scholar.google.com/citations?user=QPLO3myO5PkC&hl=en
+    homepage: https://dyxiong.github.io
+    institution: Tianjin University
+    last_name: Xiong
+    name: Deyi Xiong
+    orcid: https://orcid.org/0000-0002-2353-5038
+    semantic_scholar_id: https://www.semanticscholar.org/author/Deyi-Xiong/2694222
+    username: ~Deyi_Xiong2
+  decision: '2024'
+  file: 3.pdf
+  id: 3
+  openreview_id: u9tX3hbV2z
+  pdf_file: b043066e028dabc97122395334f54a99950e3434.pdf
+  title: Evaluating Chinese Large Language Models on Discipline Knowledge Acquisition
+    via Memorization and Robustness Assessment
+- abstract: Test contamination is a serious problem for the evaluation of large language
+    models (LLMs)  because it leads to the overestimation of their performance and
+    a quick saturation of benchmarks, even before the actual capability is achieved.
+    One strategy to address this issue is the (adversarial) generation of variations,
+    by including different exemplars and different rephrasings of the questions. However,
+    these two interventions can lead to instances that can be more difficult (accumulating
+    on the expected loss of performance by partly removing the contamination) but
+    also to instances that can be less difficult (cancelling the expected loss of
+    performance), which would make contamination undetectable. Understanding these
+    two phenomena in terms of instance difficulty is critical to determine and measure
+    contamination. In this paper we conduct a comprehensive analysis of these two
+    interventions on an addition task with fine-tuned LLAMA-2 models.
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: ''
+  authors:
+  - emails: bmehrba@upv.es
+    first_name: Behzad
+    google_scholar_id: https://scholar.google.com/citations?user=eG4fbvoAAAAJ&hl=en
+    institution: Universidad Politécnica de Valencia
+    last_name: Mehrbakhsh
+    name: Behzad Mehrbakhsh
+    username: ~Behzad_Mehrbakhsh1
+  - dblp_id: https://dblp.org/pid/178/8272.html
+    emails: dario.g.professional@gmail.com
+    first_name: Dario
+    google_scholar_id: https://scholar.google.com/citations?hl=en&user=eVutJvEAAAAJ
+    homepage: https://dariogarigliotti.github.io/
+    institution: University of Bergen
+    last_name: Garigliotti
+    name: Dario Garigliotti
+    orcid: https://orcid.org/0000-0002-0331-000X
+    semantic_scholar_id: https://www.semanticscholar.org/author/Dar%C3%ADo-Garigliotti/3359600
+    username: ~Dario_Garigliotti1
+  - dblp_id: https://dblp.org/pers/hd/m/Mart=iacute=nez=Plumed:Fernando
+    emails: fmartinez@dsic.upv.es
+    first_name: Fernando
+    google_scholar_id: https://scholar.google.es/citations?user=a5qlaGIAAAAJ&hl=en
+    homepage: https://nandomp.github.io/
+    institution: Universitat Politècnica de València
+    last_name: Martínez-Plumed
+    name: Fernando Martínez-Plumed
+    orcid: https://orcid.org/0000-0003-2902-6477
+    username: ~Fernando_Martínez-Plumed1
+  - dblp_id: https://dblp.org/pid/h/JoseHernandezOrallo
+    emails: jorallo@upv.es
+    first_name: Jose
+    google_scholar_id: https://scholar.google.com/citations?user=n9AWbcAAAAAJ&hl=en
+    homepage: http://josephorallo.webs.upv.es/
+    institution: Universitat Politecnica de Valencia
+    last_name: Hernandez-Orallo
+    name: Jose Hernandez-Orallo
+    username: ~Jose_Hernandez-Orallo1
+  decision: '2024'
+  file: 10.pdf
+  id: 10
+  openreview_id: gEtTo2DOOy
+  pdf_file: 4fafc7638b4c8f0d98e5b149cfc529ca49b796a3.pdf
+  title: Confounders in Instance Variation for the Analysis of Data Contamination
+- abstract: 'Large language models pretrained on extensive web corpora demonstrate
+    remarkable performance across a wide range of downstream tasks. However, a growing
+    concern is data contamination, where evaluation datasets may unintentionally be
+    contained in the pretraining corpus, inflating model performance.
+    Decontamination, the process of detecting and removing such data, is a potential
+    solution; yet these contaminants may originate from altered versions of the test
+    set, evading detection during decontamination. How different types of contamination
+    impact the performance of language models on downstream tasks is not fully understood.
+    We present a taxonomy that categorizes the various types of contamination encountered
+    by LLMs during the pretraining phase and identify which types pose the highest
+    risk.  We analyze the impact of contamination on two key NLP tasks---summarization
+    and question answering---revealing how different types of contamination influence
+    task performance during evaluation.'
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: ''
+  authors:
+  - emails: mpalaval@andrew.cmu.edu
+    first_name: Medha
+    last_name: Palavalli
+    name: Medha Palavalli
+    username: ~Medha_Palavalli1
+  - dblp_id: https://dblp.org/pid/305/7615
+    emails: abertsch@cs.cmu.edu
+    first_name: Amanda
+    google_scholar_id: https://scholar.google.com/citations?user=G1Jw4CYAAAAJ
+    homepage: https://www.cs.cmu.edu/~abertsch/
+    institution: Carnegie Mellon University
+    last_name: Bertsch
+    name: Amanda Bertsch
+    orcid: https://orcid.org/0000-0002-1368-1111
+    semantic_scholar_id: https://www.semanticscholar.org/author/Amanda-Bertsch/2138301112
+    username: ~Amanda_Bertsch1
+  - dblp_id: https://dblp.org/pid/116/0475
+    emails: mgormley@cs.cmu.edu
+    first_name: Matthew
+    google_scholar_id: https://scholar.google.com/citations?user=GU0SZmYAAAAJ&hl=en
+    homepage: http://www.cs.cmu.edu/~mgormley/
+    institution: Solventum and School of Computer Science, Carnegie Mellon University
+    last_name: Gormley
+    middle_name: R.
+    name: Matthew R. Gormley
+    semantic_scholar_id: https://www.semanticscholar.org/author/Matthew-R.-Gormley/1762110
+    username: ~Matthew_R._Gormley1
+  decision: '2024'
+  file: 13.pdf
+  id: 13
+  openreview_id: gf4RoEqO50
+  pdf_file: 4b3b4c39262c6b8ec981c305a40cebcff1751558.pdf
+  title: A Taxonomy for Data Contamination in Large Language Models
+- abstract: 'The 1st Workshop on Data Contamination (CONDA 2024) focuses on all relevant aspects of data contamination in natural language processing, where data contamination is understood as situations where evaluation data is included in pre-training corpora used to train large scale models, compromising evaluation results. The workshop fostered a shared task to collect evidence on data contamination in current available datasets and models. The goal of the shared task and associated database is to assist the community in understanding the extent of the problem and to assist researchers in avoiding reporting evaluation results on known contaminated resources. The shared task provides a structured, centralized public database for the collection of contamination evidence, open to contributions from the community via GitHub pool requests. This first compilation paper is based on 566 reported entries over 91 contaminated sources from a total of 23 contributors. The details of the individual contamination events are available in the platform. The platform continues to be online, open to contributions from the community.'
+  decision: '2024'
+  file: report.pdf
+  id: 999
+  title: Data Contamination Report from the 2024 CONDA Shared Task
+  authors:
+  - first_name: Oscar
+    last_name: Sainz
+    name: Oscar Sainz
+  - first_name: Iker
+    last_name: Garc\'ia-Ferrero
+    name: Iker Garc\'ia-Ferrero
+  - first_name: Alon
+    last_name: Jacovi
+    name: Alon Jacovi
+  - first_name: Jon
+    last_name: Ander Campos
+    name: Jon Ander Campos
+  - first_name: Yanai
+    last_name: Elazar
+    name: Yanai Elazar
+  - first_name: Eneko
+    last_name: Agirre
+    name: Eneko Agirre
+  - first_name: Yoav
+    last_name: Goldberg
+    name: Yoav Goldberg
+  - first_name: Wei-Lin
+    last_name: Chen
+    name: Wei-Lin Chen
+  - first_name: Jenny
+    last_name: Chim
+    name: Jenny Chim
+  - first_name: Leshem
+    last_name: Choshen
+    name: Leshem Choshen
+  - first_name: Luca
+    last_name: D'Amico-Wong
+    name: Luca D'Amico-Wong
+  - first_name: Melissa
+    last_name: Dell
+    name: Melissa Dell
+  - first_name: Run-Ze
+    last_name: Fan
+    name: Run-Ze Fan
+  - first_name: Shahriar
+    last_name: Golchin
+    name: Shahriar Golchin
+  - first_name: Yucheng
+    last_name: Li
+    name: Yucheng Li
+  - first_name: Pengfei
+    last_name: Liu
+    name: Pengfei Liu
+  - first_name: Bhavish
+    last_name: Pahwa
+    name: Bhavish Pahwa
+  - first_name: Ameya
+    last_name: Prabhu
+    name: Ameya Prabhu
+  - first_name: Suryansh
+    last_name: Sharma
+    name: Suryansh Sharma
+  - first_name: Emily
+    last_name: Silcock
+    name: Emily Silcock
+  - first_name: Kateryna
+    last_name: Solonko
+    name: Kateryna Solonko
+  - first_name: David
+    last_name: Stap
+    name: David Stap
+  - first_name: Mihai
+    last_name: Surdeanu
+    name: Mihai Surdeanu
+  - first_name: Yu-Min
+    last_name: Tseng
+    name: Yu-Min Tseng
+  - first_name: Vishaal
+    last_name: Udandarao
+    name: Vishaal Udandarao
+  - first_name: Zengzhi
+    last_name: Wang
+    name: Zengzhi Wang
+  - first_name: Ruijie
+    last_name: Xu
+    name: Ruijie Xu
+  - first_name: Jinglin
+    last_name: Yang
+    name: Jinglin Yang

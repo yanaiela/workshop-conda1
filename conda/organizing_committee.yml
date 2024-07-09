@@ -1,0 +1,23 @@
+- members:
+  - first_name: Oscar
+    institution: HiTZ Center - Ixa, University of the Basque Country
+    last_name: Sainz
+  - first_name: Iker
+    institution: HiTZ Center - Ixa, University of the Basque Country
+    last_name: García Ferrero
+  - first_name: Eneko
+    institution: HiTZ Center - Ixa, University of the Basque Country
+    last_name: Agirre
+  - first_name: Jon
+    institution: Cohere
+    last_name: Ander Campos
+  - first_name: Alon
+    institution: Bar-Ilan University
+    last_name: Jacovi
+  - first_name: Yanai
+    institution: Allen Institute for Artificial Intelligence, University of Washington
+    last_name: Elazar
+  - first_name: Yoav
+    institution: Bar-Ilan University, Allen Institute for Artificial Intelligence
+    last_name: Goldberg
+  role: Program Chairs

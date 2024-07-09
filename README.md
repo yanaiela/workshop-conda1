@@ -1,3 +1,8 @@
+# TODOs - Conda
+
+- [x] `conference_details`: fill up isbn
+- [ ] dieuwke's bio
+
 # How to generate proceedings for \*CL Conferences and Workshops in aclpub2 format
 
 **aclpub2** supports the generation of Proceedings and Booklets for \*CL Conferences (ACL, NAACL, EMNLP, ... ) and related Workshops. 

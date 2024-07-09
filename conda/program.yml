@@ -1,0 +1,69 @@
+- title: Session 1
+  start_time: 2024-08-16 08:55:00
+  end_time: 2024-08-16 10:30:00
+  location: TBA
+  subsessions:
+    - end_time: 2024-08-16 09:00:00
+      start_time: 2024-08-16 08:55:00
+      title: Opening Remarks
+      chair: Oscar Sainz
+    - end_time: 2024-08-16 09:45:00
+      start_time: 2024-08-16 09:00:00
+      title: On the value of carefully measuring data.
+      chair: Oscar Sainz
+    - end_time: 2024-08-16 10:30:00
+      start_time: 2024-08-16 09:45:00
+      title: Evaluation data contamination:" how much is there, and how much does it actually matter?
+      chair: Oscar Sainz
+- end_time: 2024-08-16 11:00:00
+  start_time: 2024-08-16 10:30:00
+  title: Break
+- title: Session 2
+  start_time: 2024-08-16 11:00:00
+  end_time: 2024-08-16 12:00:00
+  location: TBA
+  subsessions:
+    - end_time: 2024-08-16 11:45:00
+      start_time: 2024-08-16 11:00:00
+      title: Contamination in Web-Scale Datasets and its Impact on Large Model Evaluations
+      chair: Job Ander Campos
+    - end_time: 2024-08-16 12:00:00
+      start_time: 2024-08-16 11:45:00
+      title: Best paper presentation
+- end_time: 2024-08-16 13:30:00
+  start_time: 2024-08-16 12:00:00
+  title: Lunch Break
+- title: Session 3
+  start_time: 2024-08-16 13:30:00
+  end_time: 2024-08-16 15:30:00
+  subsessions:
+    - end_time: 2024-08-16 15:30:00
+      start_time: 2024-08-16 13:30:00
+      papers:
+        - end_time: 2024-08-16 15:30:00
+          id: 3
+          start_time: 2024-08-16 13:30:00
+        - end_time: 2024-08-16 15:30:00
+          id: 10
+          start_time: 2024-08-16 13:30:00
+        - end_time: 2024-08-16 15:30:00
+          id: 13
+          start_time: 2024-08-16 13:30:00
+      title: Poster Session
+      chair: Job Ander Campos
+      location: Poster Session Area
+- end_time: 2024-08-16 16:00:00
+  start_time: 2024-08-16 15:30:00
+  title: Break
+- title: Session 4
+  start_time: 2024-08-16 16:00:00
+  end_time: 2024-08-16 17:15:00
+  subsessions:
+  - end_time: 2024-08-16 16:45:00
+    start_time: 2024-08-16 16:00:00
+    title: A Sanity Check on Emergent Properties
+    chair: Iker García-Ferrero
+    location: TBA
+  - end_time: 2024-08-16 17:15:00
+    start_time: 2024-08-16 17:00:00
+    title: Closing Remarks

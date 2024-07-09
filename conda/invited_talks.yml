@@ -1,0 +1,35 @@
+- title: On the value of carefully measuring data
+  abstract_file: meg.tex
+  speaker_name: Margaret Mitchell
+  institution: HuggingFace
+  bio_file: meg_bio.tex
+  date: 2024-08-16 09:00:00
+  location: TBA
+  chair: Oscar Sainz
+
+- title: Evaluation data contamination:\, how much is there, and how much does it actually matter?
+  abstract_file: dieuwke.tex
+  speaker_name: Dieuwke Hupkes
+  institution: Meta
+  bio_file: dieuwke_bio.tex
+  date: 2024-08-16 09:45:00
+  location: TBA
+  chair: Oscar Sainz
+
+- title: Contamination in Web-Scale Datasets and its Impact on Large Model Evaluations
+  abstract_file: jesse.tex
+  speaker_name: Jesse Dodge
+  institution: Allen Institute for AI
+  bio_file: jesse_bio.tex
+  date: 2024-08-16 11:00:00
+  location: TBA
+  chair: Job Ander Campos
+
+- title: A Sanity Check on Emergent Properties
+  abstract_file: anna.tex
+  speaker_name: Anna Rogers
+  institution: IT University of Copenhagen
+  bio_file: anna_bio.tex
+  date: 2024-08-16 17:00:00
+  location: TBA
+  chair: Iker García-Ferrero
